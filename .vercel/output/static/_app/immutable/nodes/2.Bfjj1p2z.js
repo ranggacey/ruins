@@ -1,1 +1,0 @@
-import{a as e,f as t}from"../chunks/CuRY8J_y.js";import{ay as m,ah as n}from"../chunks/41g6GhuF.js";m();var r=t("<h1>Welcome to Ruins</h1> <p>SvelteKit + MongoDB Atlas</p>",1);function l(a){var o=r();n(2),e(a,o)}export{l as component};
